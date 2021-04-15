@@ -1,10 +1,21 @@
+.color{
+    background-color: blueviolet;
+}
+
+
 .circulo {
   width: 80px;
   height: 80px;
-  background-color: blueviolet;
   margin: 10px;
 }
 
 .titulo{
     margin-left: 40px;
+}
+
+
+.gafas{
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
 }
