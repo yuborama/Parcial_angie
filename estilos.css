@@ -1,0 +1,10 @@
+.circulo {
+  width: 80px;
+  height: 80px;
+  background-color: blueviolet;
+  margin: 10px;
+}
+
+.titulo{
+    margin-left: 40px;
+}
